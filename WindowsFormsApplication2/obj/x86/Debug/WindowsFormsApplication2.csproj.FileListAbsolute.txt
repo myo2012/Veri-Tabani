@@ -1,0 +1,17 @@
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\VERİTABANI_BY_FARUK\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\VERİTABANI_BY_FARUK\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\VERİTABANI_BY_FARUK\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\VERİTABANI_BY_FARUK\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\VERİTABANI_BY_FARUK\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\VERİTABANI_BY_FARUK\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\faruk\Documents\Visual Studio 2010\Projects\VERİTABANI_BY_FARUK\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\faruk\Documents\Visual Studio 2010\Projects\VERİTABANI_BY_FARUK\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
